@@ -13,7 +13,7 @@
 4. Right click and click on the `Inpect` option
 5. Type a scholarship into the search bar on the top left of the page and a JSON object with the matching scholarships will be returned in the browser console
 
-## Examples
+## Images
 
 [Page and Console](/screenshots/page-and-console.jpg)
 
