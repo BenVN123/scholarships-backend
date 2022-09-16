@@ -15,6 +15,8 @@
 
 ## Images
 
-[Page and Console](/screenshots/page-and-console.jpg)
+![page-and-console](https://user-images.githubusercontent.com/71541167/190540374-9c176a26-abdc-4c2e-ba9a-b45fd14f070c.jpg)
 
-[Returned Object](/screenshots/returned-object.jpg)
+![returned-object](https://user-images.githubusercontent.com/71541167/190540382-71f6f524-85eb-4bf8-813d-d99c3e41d327.jpg)
+
+Alternatively, you can find these images in the `screenshots` folder
